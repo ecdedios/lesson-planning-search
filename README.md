@@ -37,17 +37,17 @@ _A side project._
 
 ## Meta
 
-Codeup Capstone One – [@codeup-capstone-one](https://github.com/codeup-capstone-one)
+Ednalyn C. De Dios – [@ecdedios](https://github.com/ecdedios)
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-- [https://github.com/ecdedios](https://github.com/ecdedios)
-- [https://github.com/jessejinnaruiz](https://github.com/jessejinnaruiz)
-- [https://github.com/matthewcapper](https://github.com/matthewcapper)
+- LinkedIn: [in/ecdedios/](https://www.linkedin.com/in/ecdedios/)
+- Resumé: [http://ednalyn.com](http://ednalyn.com)
+- Data Science Projects [https://ddfloww.com](https://ddfloww.com)
 
 ## Contributing
 
-1. Fork it (<https://github.com/codeup-capstone-one/domestic-violence/fork>)
+1. Fork it (<https://github.com/ecdedios/lesson-planning-search/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
